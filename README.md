@@ -11,7 +11,8 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Ka3dus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ka3dus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+<img align="right" alt="Ka3dus-pic" height="150" style="border-radius:50px;" src="https://64.media.tumblr.com/3fe6b4937025dbf8d4377e271604b31d/929a03978a90c532-ba/s500x750/3b87638f32962989a47c82428590cd8bbbf0a695.gifv">
+  </div>
   
   ##
  
@@ -20,7 +21,7 @@
   <a href="https://instagram.com/gabriel_d785" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:gabrielodantas@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
    
-![DarthRevanGIF (3)](https://user-images.githubusercontent.com/106281679/170845641-e0c0c830-1f9f-4552-a213-13c1b4fef690.gif)
+
 
   
 </div>
