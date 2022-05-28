@@ -22,6 +22,7 @@
   <a href = "mailto:gabrielodantas@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
    
  
+![DarthRevanGIF (3)](https://user-images.githubusercontent.com/106281679/170845641-e0c0c830-1f9f-4552-a213-13c1b4fef690.gif)
 
   
 </div>
